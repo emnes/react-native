@@ -282,7 +282,7 @@ the Terminal should be something like:
 
 #### Python 2
 
-Fire up the Termimal and use Chocolatey to install Python 2.
+Fire up the Terminal and use Chocolatey to install Python 2.
 
 > Python 3 will currently not work when initializing a React Native project.
 
@@ -308,7 +308,7 @@ sudo ln -s /usr/bin/nodejs /usr/bin/node
 
 <block class='windows android' />
 
-Fire up the Termimal and use Chocolatey to install NodeJS.
+Fire up the Terminal and use Chocolatey to install NodeJS.
 
 ```
 choco install nodejs.install
@@ -335,7 +335,7 @@ npm install -g react-native-cli
 > `javac -version` to see what version you have, if any. If you do not meet the JDK requirement,
 > you can
 > [download it](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html),
-> or use a pacakage manager to install it (e.g. `choco install jdk8`,
+> or use a package manager to install it (e.g. `choco install jdk8`,
 > `apt-get install default-jdk`).
 
 Android Studio will provide you the Android SDK and emulator required to run and test your React
